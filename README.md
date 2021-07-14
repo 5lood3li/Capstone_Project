@@ -1,5 +1,4 @@
-# Capstone_Project
-## Tourism Sector Investment in the Saudi Vision 2030: Saudi Restaurant Market
+# Tourism Sector Investment in the Saudi Vision 2030: Saudi Restaurant Market
 
 Restaurant’s sector is important when we want to talk about tourism. It is two combined sectors that work to gather. Without restaurants there is no good tourism and without tourism there no good restaurants.
 
