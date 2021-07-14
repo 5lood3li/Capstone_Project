@@ -16,3 +16,5 @@ For this capstone project, we wanted to build something that would benefit the r
 When we have a good historical data, we could use our recommendation system Which follows the logic “if you like this restaurant, you might also like that”, and this is called item-item collaborative filtering recommendation system. 
 
 Also, there is another type of collaborative filtering recommendation system called user-item collaborative filtering recommendation system. this type works by searching a large group of people and finding a smaller set of users with tastes similar to a particular user. To further make sense of the data and understand the costumer, we will be performing sentiment analysis on the text content of the reviews to understand user sentiment on their overall emotional experience dining at different restaurants.
+
+Here you can find the test folder for the computer vision model https://drive.google.com/drive/folders/176Gfssj_uWsyHpLaB_Usl8dhvgK7HvCX?usp=sharing
